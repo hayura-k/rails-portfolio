@@ -72,6 +72,6 @@ trubolinks使用しない・test・helper・css・jsの自動生成禁止
 参考サイト
 [プログラミングスクールで、「リアルバーチャルYoutuber」というWebサービスを作りました \- 猫Rails](http://nekorails.hatenablog.com/entry/2019/09/11/145136)  
 
-参考youtube系のポートフォリオ
+参考youtube系のポートフォリオ  
 [東海オンエア](https://toukaionair.com/#/)  
 [上記のgithub](https://github.com/momokan928/tokai-db-aws)
