@@ -23,7 +23,7 @@
 ・ Youtube動画検索（API）  
 ・ 取得動画保存  
 ・ タグづけ機能  
-・ 取得している動画の検索機能(フォームオブジェクトで設計)  
+・ 取得している動画の検索機能(フォームオブジェクトで設計するかも)  
 ・ ページネーション  
 ・ Fontawesome  
 
@@ -71,3 +71,7 @@ trubolinks使用しない・test・helper・css・jsの自動生成禁止
 
 参考サイト
 [プログラミングスクールで、「リアルバーチャルYoutuber」というWebサービスを作りました \- 猫Rails](http://nekorails.hatenablog.com/entry/2019/09/11/145136)  
+
+参考youtube系のポートフォリオ
+[東海オンエア](https://toukaionair.com/#/)  
+[上記のgithub](https://github.com/momokan928/tokai-db-aws)
