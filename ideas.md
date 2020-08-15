@@ -39,7 +39,7 @@
 インフラ  
 ・ heroku + S3 + MySQL  
 バックエンド  
-・ Rails  
+・ Rails5.2.3 + ruby 2.6  
 フロント  
 ・slim + UiKit + jquery?  
 
