@@ -16,18 +16,19 @@
 ・ Google認証(OAuth)ユーザーのお気に入りしている動画を取ってこれるはず？
 ・ Twitter認証（OAuth)お気にいる動画をまとめてシェアしたい
 ・ パスワード再設定  
-・ ユーザー登録(名前、メールアドレス、パスワード、ユーザー画像)  
+・ ユーザー登録(名前、メールアドレス、パスワード)  
 ・ ゲストログイン  
 ログイン後  
 ・ 取得動画一覧表示  
 ・ プロフィール編集（名前、ユーザー画像のみ）  
-・ Youtube動画検索（API）  
-・ 取得動画保存  
+・ URLで保存  
+・ Youtube（API）   
 ・ タグづけ機能  
 ・ 取得している動画の検索機能(フォームオブジェクトで設計するかも) 
 ・ インクリメンタルサーチ  
 ・ ページネーション  
 ・ Fontawesome  
+・ モーダルで動画取得
 
 **できたらつけたい**  
 ・ Rspecでテスト  
@@ -41,7 +42,7 @@
 バックエンド  
 ・ Rails5.2.3 + ruby 2.6  
 フロント  
-・slim + UiKit + jquery?  
+・slim + BMD4 + jquery  
 
 使用するgem  
 ・ sorcery  
@@ -50,14 +51,16 @@
 ・ html2slim  
 ・ rubocop ・ rubocop-rails  
 ・ pry-rails ・ pry-byebug  
-・ annotate  
-・ carrierwave  
-・ mini_magick  
+・ better_errors ・ binding_of_caller  
+・ annotate   
 ・ font-awesome-sass  
 ・ faker  
 ・ kaminari  
 ・ yarn  
-・ i18n  
+・ rails-i18n  
+・ rinku  
+・ config  
+・ letter_opener
 後は必要に応じて随時入れる。
 
 trubolinks使用しない（APIが使用できない）・test・helper・css・jsの自動生成禁止  
