@@ -25,16 +25,15 @@
 ・ Youtube（APIでタイトルと本文をとってくる）     
 ・ タグづけ機能  
 ・ 検索機能  
-・ インクリメンタルサーチ  
+・ 公開・非公開の権限設定(enum)  
 ・ ページネーション  
 ・ Fontawesome  
-・ モーダルで動画取得
+・ モーダルで動画取得  
+・ コメント機能  
 
 **heroku公開後**  
-・ 公開・非公開の権限設定(enum)  
+・ インクリメンタルサーチ  
 ・ フォロー機能  
-・ いいね機能  
-・ コメント機能
 ・ いいね機能  
 ・ チャット機能  
 
@@ -61,7 +60,10 @@
 ・ rails-i18n  
 ・ rinku  
 ・ config  
-・ letter_opener
+・ letter_opener  
+・ enum_help  
+・ rinku  
+
 後は必要に応じて随時入れる。
 
 trubolinks使用しない（APIが使用できない）・test・helper・css・jsの自動生成禁止  
